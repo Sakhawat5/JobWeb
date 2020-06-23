@@ -1,0 +1,85 @@
+﻿@model IEnumerable<JobsWeb.Models.Job>
+
+@{
+    ViewData["Title"] = "Index";
+        Layout = "~/Views/Shared/_Layouttwo.cshtml";
+}
+
+@*<h1>Index</h1>*@
+<div>
+    <a class="btn btn-outline-success" asp-action="Create"><i class="far fa-plus-square"></i>Add Job</a>
+    <a class="btn btn-outline-success" asp-area="" asp-controller="jobs" asp-action="index"><i class="far fa-plus-square"></i>All Post Jobs</a>
+</div>
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+<table class="table table-hover bg-white">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.PDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NewsPaper)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th></th>*@
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.JobId">       @Html.DisplayFor(modelItem => item.JobTitle)</a>
+
+
+                <div class="news_right_col">
+                    Newspaper :&nbsp;
+                    <a href="../newspaper/dawn.html">
+                        <span id="dListItems_Label2_0" style="color: #000000">@Html.DisplayFor(modelItem => item.NewsPaper)</span>
+                    </a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    Publish Date:&nbsp;
+                    <a href="../date/19-05-2020.html">
+                        <span id="dListItems_Label3_0" style="color: #009900">@Html.DisplayFor(modelItem => item.PDate)</span>
+                    </a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    Last Date:&nbsp;
+                    <a href="../date/19-05-2020.html">
+                        <span id="dListItems_Label3_0" style="color: #009900">@Html.DisplayFor(modelItem => item.LDate)</span>
+                    </a>
+                </div>
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.JobTitle)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NewsPaper)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>*@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.JobId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.JobId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.JobId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

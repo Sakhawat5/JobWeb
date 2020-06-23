@@ -1,0 +1,116 @@
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.deps.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.runtimeconfig.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.runtimeconfig.dev.json
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.dll
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.csprojAssemblyReference.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorAssemblyInfo.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorAssemblyInfo.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.AssemblyInfoInputs.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.AssemblyInfo.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.TagHelpers.input.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.TagHelpers.output.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorCoreGenerate.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.pdb
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.Views.dll
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.Views.pdb
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.Views.pdb
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.dll
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.pdb
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.csproj.CopyComplete
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Delete.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Centered.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layouttwo.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Army.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Navy\Index.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Wapda\Index.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Email.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_EmailFeedburner.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_EmailSubscriber.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Email - Copy.cshtml.g.cs
+C:\Users\AQEEL ABBAS\source\repos\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navbar.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.deps.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.runtimeconfig.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.runtimeconfig.dev.json
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.dll
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.pdb
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.Views.dll
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\bin\Debug\netcoreapp2.2\JobsWeb.Views.pdb
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.csprojAssemblyReference.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorAssemblyInfo.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorAssemblyInfo.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.AssemblyInfoInputs.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.AssemblyInfo.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.TagHelpers.input.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.TagHelpers.output.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorCoreGenerate.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Army.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Delete.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Navy\Index.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Centered.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Email - Copy.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Email.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_EmailFeedburner.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_EmailSubscriber.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layouttwo.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navbar.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Wapda\Index.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorTargetAssemblyInfo.cache
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.RazorTargetAssemblyInfo.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.Views.pdb
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.dll
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.pdb
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\JobsWeb.csproj.CopyComplete
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Eninas\wetransfer-a9bd10\JobsWeb\JobsWeb\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs

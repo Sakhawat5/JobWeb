@@ -1,0 +1,72 @@
+﻿
+
+    <!-- Subscribe Form -->
+   
+        @*<div class="section-title">
+            <h2>Get Jobs Notifications in Email</h2>
+        </div>*@
+
+
+  
+    <!-- End Subscribe Form -->
+
+    <div class="subscribe-item bg-white">
+      
+        <div class="aqeel">
+            <form style="border:1px solid #ccc;padding:12px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=DawnJobs', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                <h5>Get Jobs Notifications in Email:</h5>
+                <div class="input-group mb-3">
+                    <input type="text" name="email" class="form-control" placeholder="Enter Your Email" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                    <input type="hidden" value="DawnJobs" name="uri" />
+                    <input type="hidden" name="loc" value="en_US" />
+                    <div class="input-group-append">
+                        <button class="btn btn-danger  " type="submit" value="Subscribe">Subscribe</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    <style>
+        .section-title {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+        .subscribe-item{
+            max-width: 660px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+       
+        .aqeel .form-control{
+          height: 45px;
+          font-size: 16px;
+            padding-left: 25px;
+            border: 1px solid #cb202d;
+            border-radius: 0;
+        }
+        .btn{
+            border-radius: 0;
+       
+        }
+        .btn-danger:focus, .btn-danger.focus {
+         box-shadow: none; 
+}
+        .btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus, .show > .btn-danger.dropdown-toggle:focus {
+        box-shadow: none;
+}
+     button{
+     box-shadow: none; 
+           
+     }
+     .form-control:focus {
+    /* color: #495057; */
+    /* background-color: #fff; */
+    /* border-color: #80bdff; */
+    outline: 0;
+    box-shadow: none; 
+}
+    </style>
